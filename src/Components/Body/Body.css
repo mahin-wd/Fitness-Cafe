@@ -12,3 +12,10 @@
     grid-template-columns: repeat(2, 1fr);
     gap: 20px;
 }
+
+.count-exercise{
+    background-color: #04800411;
+    border-radius: 5px;
+    text-align: center;
+    padding: 15px;
+}

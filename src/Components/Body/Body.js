@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import Calculation from '../../Calculation/Calculation';
 import Exercise from '../Exercise/Exercise';
 import Head from '../Head/Head';
 import './Body.css'
@@ -26,7 +27,7 @@ const Body = () => {
                 </div>
 
                 <div className="count-exercise">
-                    <h2>calculations here</h2>
+                    <Calculation></Calculation>
                 </div>
             </div>
         </div>
