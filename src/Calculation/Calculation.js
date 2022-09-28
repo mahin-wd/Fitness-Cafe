@@ -1,7 +1,14 @@
 import React from 'react';
 import './image/user.jpg'
 import './Calculation.css'
-const Calculation = () => {
+const Calculation = (props) => {
+    const {time} = props;
+    // console.log(times)
+
+    let totalTime = 0;
+    for (const times of time){
+        totalTime = totalTime + times.time;
+    }
     return (
         <div className='calc'>
             <div className="user-profile">
@@ -37,7 +44,7 @@ const Calculation = () => {
 
             <h3>Exercise Detail</h3>
             <div className='exercise-detail'>
-                <h4>Exercise Time: {}</h4>
+                <h4>Exercise Time: {totalTime}s</h4>
                 <h4>Break Tike: {}</h4>
             </div>
             <button className='activity-finished'>Activity Completed</button>
