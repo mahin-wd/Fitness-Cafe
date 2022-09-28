@@ -4,7 +4,8 @@
 }
 
 .body{
-    margin: 0 10%;
+    margin: 0 10% 25px 10%;
+
 }
 
 .exercises{
@@ -18,4 +19,5 @@
     border-radius: 5px;
     text-align: center;
     padding: 15px;
+    position: sticky;
 }

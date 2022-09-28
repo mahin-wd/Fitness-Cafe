@@ -8,7 +8,7 @@ const Exercise = (props) => {
             <div>
                 <img src={img} alt="" />
                 <h2>{name}</h2>
-                <p>{text}</p>
+                <h3>{text}</h3>
                 <p>{age}</p>
                 <p>Time: {time}</p>
                 <button>Add to list</button>

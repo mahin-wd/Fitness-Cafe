@@ -11,7 +11,7 @@ const Head = () => {
                 <FontAwesomeIcon icon={faDumbbell}></FontAwesomeIcon>
                 <h1>Fitness Cafe</h1>
                 </div>
-            <h3>Start Getting Fit From Today</h3>
+                <h3 className='sub-title'>Start Getting Fit From Today</h3>
         </div>
     );
 };

@@ -18,6 +18,17 @@
     font-size: 30px;
 }
 
+.card h3{
+    color: rgb(61, 61, 61);
+    margin-bottom: 15px;
+}
+
+.card p{
+    font-size: 20px;
+    line-height: 5px;
+    font-weight: 600;
+}
+
 .card button{
     position: absolute;
     bottom: 0;

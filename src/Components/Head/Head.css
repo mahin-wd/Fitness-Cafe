@@ -3,3 +3,13 @@
     align-items: center;
     color: rgb(4, 128, 4);
 }
+
+.web-name h1{
+    font-size: 2.8rem;
+}
+
+.sub-title{
+    font-size: 2rem;
+    margin-top: -10px;
+    color: #353535;
+}
