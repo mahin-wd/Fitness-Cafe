@@ -1,0 +1,67 @@
+[
+  {
+    "id": "1",
+    "name": "Push Ups",
+    "text": "This exercise is very good for full body. It specially affects the upper body",
+    "age": "For: 18-40",
+    "img": "https://cdn.pixabay.com/photo/2016/09/21/23/09/sport-1685978_960_720.jpg",
+    "time": "30s"
+  },
+  {
+    "id": "2",
+    "name": "Pull Ups",
+    "age": "For: 18-40",
+    "text": "This exercise is very good for full body. It specially affects the upper body",
+    "img": "https://images.unsplash.com/photo-1605296867424-35fc25c9212a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "time": "30s"
+  },
+  {
+    "id": "3",
+    "name": "Squats",
+    "age": "For: 18-40",
+    "text": "This exercise is very good for full body. It specially affects the lower body",
+    "img": "https://images.unsplash.com/flagged/photo-1580051743902-bfebe05d70e0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1274&q=80",
+    "time": "30s"
+  },
+  {
+    "id": "4",
+    "name": "Running",
+    "age": "For: 18-40",
+    "text": "This exercise is very good for full body. It helps to burn extra fat from body",
+    "img": "https://i0.wp.com/post.healthline.com/wp-content/uploads/2020/01/Runner-training-on-running-track-1296x728-header-1296x728.jpg?w=1155&h=1528",
+    "time": "30s"
+  },
+  {
+    "id": "5",
+    "name": "Burpees",
+    "age": "For: 18-40",
+    "text": "This exercise is very good for full body. It is very effective to burn full body fat",
+    "img": "https://www.muscleandfitness.com/wp-content/uploads/2017/04/burpee-1109.jpg?w=1200&h=630&crop=1&quality=86&strip=all",
+    "time": "30s"
+  },
+  {
+    "id": "6",
+    "name": "Leg Rises",
+    "age": "For: 18-40",
+    "text": "This exercise is very good for full body. It specially affects the lower belly",
+    "img": "https://cdn.mos.cms.futurecdn.net/8pqYVQDnmf5ZEAY6gorthj-320-80.jpg",
+    "time": "30s"
+  },
+  {
+    "id": "7",
+    "name": "Seat Up",
+    "age": "For: 18-40",
+    "text": "This exercise is very good for full body. It specially affects the abs",
+    "img": "https://media.gq.com/photos/580a26d7aafbc05a239a57f7/master/w_320%2Cc_limit/sit-up-butt.jpg",
+    "time": "30s"
+  },
+  {
+    "id": "8",
+    "name": "Plank",
+    "age": "For: 18-40",
+    "text": "This exercise is very good for full body. It helps to burn fat from body",
+    "img": "https://blog-images.pharmeasy.in/2021/01/06152556/3.jpg",
+    "time": "30s"
+  }
+  
+]

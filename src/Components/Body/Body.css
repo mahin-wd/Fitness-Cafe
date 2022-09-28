@@ -6,3 +6,9 @@
 .body{
     margin: 0 10%;
 }
+
+.exercises{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
